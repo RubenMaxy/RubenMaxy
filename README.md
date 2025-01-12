@@ -6,9 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiendo nuevos lenguajes y frameworks de programación.
 - 👯 Estoy buscando colaborar en proyectos de código abierto.
-- 💬 Pregúntame sobre desarrollo web, Python y ciencia de datos.
 - 📫 Cómo contactarme: [RubenMaxy@example.com](mailto:RubenMaxy@example.com)
-- ⚡ Dato curioso: Me encanta hacer senderismo y explorar la naturaleza.
 
 ## 🚀 Habilidades
 
