@@ -34,7 +34,7 @@
 Estos son algunos proyectos en los que he trabajado:
 
 1. **Repositorio sobre Programación Multimedia y Móviles** - Repositorio donde subiré los proyectos realizados en la FP de DAM.
-   - [Repositorio en GitHub]([https://github.com/RubenMaxy/project-repo](https://github.com/RubenMaxy/Programaci-n-Multimedia-y-Dispositivos-M-viles.git](https://github.com/RubenMaxy/Programaci-n-Multimedia-y-Dispositivos-M-viles.git))
+   - [Repositorio en GitHub]([https://github.com/RubenMaxy/project-repo](https://github.com/RubenMaxy/Programaci-n-Multimedia-y-Dispositivos-M-viles.git])
 
 
 ## 📝 Licencia
