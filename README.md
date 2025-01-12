@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiendo nuevos lenguajes y frameworks de programación.
 - 👯 Estoy buscando colaborar en proyectos de código abierto.
-- 📫 Cómo contactarme: [RubenMaxy@example.com](mailto:RubenMaxy@example.com)
+- 📫 Cómo contactarme: [Email](mailto:ruben.maxima675@gmail.com)
 
 ## 🚀 Habilidades
 
